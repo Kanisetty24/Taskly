@@ -27,37 +27,29 @@ git clone https://github.com/kanisetty24/demo-app.git
 cd demo-app
 
 
-
-
-2. Build with Maven
+###2. Build with Maven
 
 mvn clean package
 
 
-
-3. Run the app
+###3. Run the app
 
 java -cp target/demo-app-1.0-SNAPSHOT.jar com.example.App
 
 
 
-
-📦 Output
+###📦 Output
 
 After building, the .jar file will be available in the target/ folder.
 
 
-
-
-🤝 Contribute
+###🤝 Contribute
 
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you’d like to improve.
 
 
-
-
-📄 License
+###📄 License
 
 This project is licensed under the MIT License.
 

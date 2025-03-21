@@ -23,7 +23,7 @@ Add, view, and delete tasks — all from your terminal!
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/kanisetty24/demo-app.git
+git clone https://github.com/kanisetty24/Taskly.git
 cd demo-app
 ```
 
@@ -34,7 +34,7 @@ mvn clean package
 
 ### 3. Run the app
 ```bash
-java -cp target/demo-app-1.0-SNAPSHOT.jar com.example.App
+java -cp target/Taskly-app-1.0-SNAPSHOT.jar com.example.App
 ```
 
 ### 📦 Output

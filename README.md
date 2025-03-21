@@ -27,37 +27,28 @@ git clone https://github.com/kanisetty24/demo-app.git
 cd demo-app
 ```
 
-2. Build with Maven
-
+### 2. Build with Maven
+```bash
 mvn clean package
+```
 
-
-3. Run the app
-
+### 3. Run the app
+```bash
 java -cp target/demo-app-1.0-SNAPSHOT.jar com.example.App
+```
 
+### 📦 Output
+After building, the `.jar` file will be available in the `target/` folder.
 
-
-📦 Output
-
-After building, the .jar file will be available in the target/ folder.
-
-
-🤝 Contribute
-
-Pull requests are welcome!
+### 🤝 Contribute
+Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you’d like to improve.
 
+### 📄 License
 
-📄 License
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute it — just give credit where it’s due! 😊
 
-This project is licensed under the MIT License.
-
-
----
-
-✅ You can now paste this into your `README.md` in the root of your repo.  
-Let me know your repo URL if you want it personalized!
-
+📌 [Learn more about the MIT License here](https://opensource.org/licenses/MIT)
 
 
